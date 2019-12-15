@@ -1,8 +1,8 @@
-#Trabalho de POO - Teste e Entrega
+# Trabalho de POO - Teste e Entrega
 
-#####Link do repositório: https://github.com/marcolinolucas/FabricaBicicleta
+##### Link do repositório: https://github.com/marcolinolucas/FabricaBicicleta
 
-######Ficamos responsáveis pela parte de Teste e Entrega então tentamos abstrair o máximo dos outros grupos, incluindo a implementação mais avançada e correta. Logo, para o funcionamento completo do nosso código, tivemos que implementar algumas outras classes.
+###### Ficamos responsáveis pela parte de Teste e Entrega então tentamos abstrair o máximo dos outros grupos, incluindo a implementação mais avançada e correta. Logo, para o funcionamento completo do nosso código, tivemos que implementar algumas outras classes.
 
 **Cliente**: Basicamente se refere ao cliente, com seus atributos e getters and setters. Adicionamos também o "toString" para melhor apresentação no console.
 
